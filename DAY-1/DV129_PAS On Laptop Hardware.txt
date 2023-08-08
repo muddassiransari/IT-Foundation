@@ -1,0 +1,78 @@
+﻿DV129_2_PAS On Laptop Hardware
+Self-Assessment Sheet
+
+
+
+
+1. What does it mean to be modular? 
+Ans It can be easily assembled, disassembled, replaced, or modified.
+
+
+What type of battery technology do we use today?
+Ans  lithium ion or lithium-ion polymer
+
+
+2. What happens each time you charge a battery?
+Ans The capacity of the battery will bit decrease 
+
+
+3. What is one advantage to using a modular battery configuration?
+Ans unplug and reconnect those batteries to your laptop.
+
+
+4. True or False? lithium-ion batteries are designed to be 80 percent charged. 
+Ans False
+
+
+5. True or False? In lithium-ion batteries, discharging some of the battery and charging it back up again you have to worry about causing a effect on memory or limiting the amount of capacity that battery might have.
+Ans False
+
+
+6. Where are all the programs that are executing in your operating system executing?
+Ans Memory
+
+
+7. What does SO-DIMM stand for?
+Ans  small outline dual in-line memory module
+ 
+8. Where is SO-DIMM usually used?
+Ans  To increase memory
+
+
+9.  Are you able to change/upgrade memory for a device that has it soldered to the motherboard?
+Ans  No
+
+
+10.  In what form do older laptops have storage in?
+Ans  HDD
+ 
+
+
+11.  In what form do new laptops have storage?
+Ans  SSD
+
+
+12.  What is one advantage of SSD?
+Ans One major advantage of SSD over HDD is their significantly faster performance.
+13.  What is one way you can migrate from a hard drive to an SSD
+      Ans  create image
+14.  What are some types of authentications?
+Ans  Biometrics, Password, Face recognition
+
+
+15.  What is one disadvantage of a laptop keyboard?
+Ans  don’t have enough room for a numeric keypad on the right side
+
+
+16.  What is NFC?
+AnsNFC stands for near-field communication. it is a short-range wireless communication technology.
+17.  What does NFC allow you to do?
+Ans It allows you to exchange data 
+
+
+18.  Is m.2 a modular setup?
+Ans yes, m.2 is modular setup
+
+
+19. M.2 interface on an SSD drive is larger than a traditional SATA-connected SSD? True or False?
+Ans  False.
