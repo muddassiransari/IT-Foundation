@@ -1,0 +1,78 @@
+﻿DS129_PAS On Connecting Mobile Devices 
+Self-Assessment Sheet
+
+
+1. What does USB stand for?
+Ans Universal Serial Bus
+
+
+2. What are USBs used for?
+Ans USB is designed for high-speed communication and it’s often used to connect our mobile device with a computer or with a power source
+
+
+3. What type of plug are we seeing less of on laptops?
+Ans DB-9
+
+
+4. What is NFC?
+Ans A very popular type of mobile connection type is NFC is near-field communication.
+
+
+5. What does NFC do?
+Ans NFC sends a small amount of data between devices that are located very close to each other.
+
+
+6. Give an example of NFC?
+Ans If you’ve ever gone into a store and used a payment system or you needed to transfer information between two mobile devices
+
+
+7. What method is the most used in mobile device connectivity?
+Ans Bluetooth
+
+
+8. What are examples of mobile hot spot?
+Ans You can enable that mobile hot spot functionality on your mobile phone and now anyone around you can connect to your mobile phone 
+
+
+9. What device uses a lightning connection?
+Ans iPhones and Macs
+
+
+10.  What interface was used before USB?
+Ans  DB-9 interface
+
+
+11.  What connection has nine pins?
+Ans DB-9 connection 
+
+
+12.  Sometimes DB-9 is referred to as?
+Ans DE-9
+
+
+13.  What replaced DB-9?
+Ans USB interface
+
+
+14.  If you have an older device, it may be connecting over USB with what type of USB?
+Ans USB mini B plug
+
+
+15.  Many of today’s mobile devices connectivity will use which USB?
+Ans USB-C
+
+
+16.  What type of signals can USB-C plug send?
+Ans USB-C plug may be sending display port signals, It may provide HDMI video and audio.
+
+
+17.  RS232 is associated with what type of interface?
+Ans DB-9 interface.
+
+
+18.  Is mobile hotspot free on all devices?
+Ans No, your phone provider may require you to pay extra each month just to enable the capability on your phone.
+
+
+19.  What is 802.1?
+Ans 802.1 able to gain internet access
