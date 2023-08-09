@@ -1,0 +1,76 @@
+﻿DV129_PAS On Laptop Displays
+Self-Assessment Sheet
+
+
+1. What does LCD stand for?
+Ans Liquid crystal display
+
+
+2. What is the disadvantage of LCD?
+Ans  Light source in the back has to shine through to provide the color, which means getting a true black can be quite difficult on LCD.
+3. What are three different technologies of liquid crystal displays?
+Ans Twisted Nematic LCD, In-plane switching IPS LCD, Vertical alignment                LCD.
+4. If you’re looking for the best possible color representation on an LCD display, you’ll want to use?
+Ans The IPS LCD (In-plane switching). This gives you a very good color representation.
+5. If you’re looking for the best possible response you’ll want to?
+Ans  Twisted Nematic LCD.
+
+
+6.  If you’re a gamer or using some application that has fast moving graphics, what type of LCD should you use?
+Ans TN (Twisted Nematic) LCD
+
+
+7. What LCD gives you very good color representation, which is great for using graphics or doing some type of desktop publishing?
+Ans IPS LCD
+
+
+8. What does TN LCD stand for?
+ Ans Twisted Nematic Liquid Crystal Display.
+
+
+9. What does IPS LCD stand for?
+Ans In-Plane Switching Liquid Crystal Display. 
+
+
+10. What does VA display stand for?
+Ans  Vertical Alignment Display. 
+
+
+11.  What is the newest from of display?
+Ans The OLED Display
+
+
+12.  What does OLED stand for?
+Ans Organic Light Display
+
+
+13.  OLED has a backlight. True or False?
+Ans False
+
+
+14.  In older laptops, you may find that the backlight that it’s using is.
+Ans  The backlight technology used is CCFL
+
+
+15.  Newer LCD displays might use what type of lights instead of using a fluorescent lamp?
+Ans  Newer LCD Display use LED (Light emitting Diode) light
+
+
+16.  What component in your device may only allow for stylus input, or it might also provide input using a touch screen?
+Ans  Digitizer 
+
+
+17.  What type of display does not have liquid crystals?
+Ans OLED does not have liquid crystals.
+
+
+18.  Why are OLEDs so thin?
+Ans  OLED  are thin because they do not require a separate backlight layer like traditional LCD panels
+
+
+19.  In OLED displays, you need glass on the front screen to protect it? True or False?
+Ans FALSE
+
+
+20.  How does OLED work?
+Ans OLED work on the organic material that’s able to create its own light when you provide it with power
