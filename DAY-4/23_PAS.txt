@@ -1,0 +1,115 @@
+23_SAS_Network Cables
+Self-Assessment Sheet
+
+Q1. What type of cable is commonly used for ethernet networks?
+Ans:
+
+Q2. What does an ethernet cable look like inside?
+Ans:
+
+Q3. What is the purpose of twisting the wires in a pair?
+Ans:
+
+Q4. What is the purpose of having two cables?
+Ans:
+
+Q5. Why are the four pairs of wires different?
+Ans.
+
+Q6. What is twisted pair cabling?
+Ans:
+
+Q7. : How many different types of twisted pair cabling are there?
+Ans:
+
+Q8. What do we refer to the different types of twisted pair cables as?
+Ans:
+
+Q9. What is 1000BASE-T?
+Ans:
+
+Q10. : What is the maximum distance of 1000BASE-T?
+Ans:
+
+Q11. What type of cable is used for 1000BASE-T?
+Ans:
+
+
+Q12. What is 10GBASE-T?
+Ans:
+
+
+Q13. What does the "E" stand for in Category 5e?
+Ans:
+
+Q14. What type of cabling is available to purchase today?
+Ans:
+
+Q15. What type of cabling is commonly used in existing network infrastructures?
+Ans:
+
+Q16. What type of cabling does 1000BASE-T support?
+Ans:
+
+
+Q17. Is there an augmented version of category 6?
+Ans:
+
+Q18. What type of cable is commonly used with cable modem networks?
+Ans:
+
+Q19. What is the conductor of a coaxial cable?
+Ans:
+
+Q20. What is the most commonly used type of coax cable?
+Ans:
+
+Q21. What is the construction of a coax cable?
+Ans:
+
+
+Q22. What is the plenum?
+Ans:
+
+Q23. What is the purpose of the plenum?
+Ans:
+
+Q24. What type of cable should be used in a shared plenum area?
+Ans:
+
+
+Q25. What is the jacket of an ethernet cable typically made of?
+Ans:
+
+
+
+Q26. What type of cable is usually used for cable runs?
+Ans:
+
+Q27. What is STP?
+Ans:
+
+
+Q28. What type of writing is found on the outside of an ethernet cable?
+Ans:
+
+Q29. What do the abbreviations stand for?
+Ans:
+
+Q30. What does S/FTP stand for?
+Ans:
+
+Q31. What does F/UTP stand for?
+Ans:
+
+
+Q32. What type of cable is used for direct burial?
+Ans:
+
+Q33. What is used to waterproof the cables?
+Ans:
+
+
+Q34. What purpose does the shielding serve?
+Ans:
+
