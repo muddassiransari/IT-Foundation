@@ -1,0 +1,36 @@
+﻿DV129_9_PAS On Introduction to IP
+Self -Assessment Sheet
+
+
+1. What is Internet Protocol (IP)?
+Ans: Internet Protocol (IP) is a fundamental set of rules and procedures that governs the delivery of data packets ocer a network , particularly the internet. It serves as the backbone of the internet of the communication system. 
+2. What is the meaning of Encapsulation?
+Ans: Encapsulation, In the context of computer science and programming ,is a fundamental concept of object- oriented programming.
+3. What does TCP stand for?
+Ans: TCP stands for Transmission control protocol.
+4. How does TCP (Transmission Control Protocol) work?
+Ans: TCP works by providing reliable, ordered, and error-communication between two devices over a network, typically the internet.        
+5. What does UDP stand for?
+Ans: User Datagram protocol.        
+6. How does UDP (User Datagram Protocol) work?
+Ans: UDP is another transport protocol in the internet protocol suite (TCP/IP), but it operates quite differently from TCP. UDP prvivides a lightweight and connection communication mechanism, making it suitable for application where speed and low overhead are more important than guaranteed delivery and error checking. 
+7. What is OSI Layer 4?
+Ans:OSI Layer 4 refers to the fourth layer of the OSI model, which is a conceptual framework used to understand and standardize the function of networking and communication protocols.
+8. What does OSI Layer 4 - Transport Layer do?
+Ans: Layer 4 of the OSI model is known as the Transport layer. Its primary purpose is to manage end-to-end communication and data flow. 
+9. What is Multiplexing?
+Ans: Multiplexing is a technique used in telecommunication and computer networks to multiple data streams or signale transmission channel or medium. 
+10. What is a port?
+Ans: In the context of computer networking and communication protocols, a port refers to a logical endpoint for communication in a computer system. Ports are used to distinguish different services or across a network.  
+11. What is a Port Number?
+Ans: There are two port numbers used by FTP. One is TCP port 20. This is for data transfers. And TCP port 21, which is used to control the data transfer.
+12. What does IPv4 Socket consist of?
+Ans: An IPv4 socket consists of two main components: an IP address and a port number. Together, these components uniquely identify a communication endpoint in a computer network. 
+13. What are Non-Ephemeral Ports?
+Ans: Non-ephermeral ports, also known as well-known ports,are a subset of port numbers used in computer networking to designate specific services or application that are commonly recognized and standardized.
+14. What are Ephemeral Ports?
+Ans: Ephemeral ports, also known as dynamic ports or private ports, are temporary port numbers used in computer networking for client-server communication. 
+15. What is Data Transport Analogy?
+Ans: The data transport analogy is away of explaining complex concepts relatedto data communication,networking,and information exchange by drawing parallels to real-world scenarios or activities that people are more familiar with.
+16. What is Network Topology?
+Ans: Network topology refers to the physical or logical arrangement of devices,nodes,andconnection within a computer network. It defines how devices are interconnected and how data flowa between them.
