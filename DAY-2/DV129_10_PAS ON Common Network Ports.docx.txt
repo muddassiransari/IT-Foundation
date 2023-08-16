@@ -1,0 +1,43 @@
+﻿DV129_10_PAS ON Common Network Ports
+Self-Assessment Sheet
+
+
+1. What is Port 20 (TCP)?
+Ans: Port 20 is for data transfer.
+2. What is Port 21 (TCP)?
+Ans: Port 21 used for control data transfer.
+3. What is FTP (File Transfer Protocol)?
+Ans: This is a protocol that transfers files from one device to another.there are two port numbers used by FTP. one is TCP port 20 and TCP port 21.
+4. What is Port 22 (TCP)?
+Ans: Port 22 ia associated with the secure shell protocol it provides a secure and encrypted way to access and manage devices remotely over a potentially unsecured network. 
+5. What is SSH (Secure Shell)?
+Ans: SSH can access and manage devices remotely over a potentially unsecured network. 
+6. What is Port 23 (TCP)?
+Ans: Port 23 associated with the telnet protocol it provides a text -based interface for remotely accessing and managing devices over a network.
+7. What is Telnet?
+Ans: Telnet is a network protocol and application that allows users to remotely access and manage device over a network. 
+8. What is Port 25 (TCP)?
+Ans: Port 25 is traditionally associated with the simple mail transfer protocol. used for sending and relaying email message between servers on a network.
+9. What is Simple Mail Transfer Protocol (SMTP)?
+Ans: IT widely used network protocol for sending and relaying email messages between servers on a network  
+10. What is Port 53 (UDP)?
+Ans: Port53 (UDP) port number used in networking to identify a specific communication endpoint within a device. in the context of networking, ports allow multiple application to share a single IP address by designating different ports for different services.
+11. What is DNS (Domain Name System)?
+Ans:  DNS that provides that resolution between a name that we’re typing in on the browser and the IP address that will be used for the actual communication.
+12. What is Port 80 (TCP)?
+Ans: Port 80 is associated with the hypertext transfer protocol. HTTP is the foundation of data communication on the world wide web. 
+13. What is Port 443 (TCP)?
+Ans: Port 443 is commonly associated with the Hypertext Transfer protocol secure. HTTPS is a secure version of the HTTP protocol used for secure communication over the internet.
+14. What is HTTP (Hypertext Transfer Protocol)?
+Ans:  HTTP is the hypertext transfer protocol, and this is the common protocol used by our browsers to communicate to web servers
+15. What is HTTPS (Hypertext Transfer Protocol Secure)?
+Ans: HTTPS, is secure version of HTTP used for communication between a web browser and a web server. 
+16. Port 110 (TCP)?
+Ans: Port 110 is associated with post office protocol version 3 and used for retrieving email messages from a mail server to a local email client. it allows user to download their email messages from the server to their device where they can be stored , read, and managed. 
+17. What is Port 143 (TCP)?
+Ans: Port 143 is traditionally associated with the internet message access protocol is used for retrieving and managing email messages stored on a mail server. 
+18. POP and IMAP?
+19. What is POP3 (Post Office Protocol version 3)?
+Ans:   POP3 was designed to retrieve email messages to an email client, but it wasn’t built for multiple email clients.
+20. What is IMAP (Internet Message Access Protocol)?
+Ans: IMAP is a network protocol used for accessing and managing email message stored on mail server.
