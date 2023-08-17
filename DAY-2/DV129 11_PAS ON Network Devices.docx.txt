@@ -1,0 +1,34 @@
+﻿DV129_11_PAS ON Network Devices
+Self-Assessment Sheet
+
+
+1. What is a Router?
+Ans:  A router is a network is a networking device that serves as a central hub for connecting multiple devices to a local area network or wide area network. 
+2. What is a Switch?
+Ans: A switch is a networking device that operates at the data link layer of the open system interconnection model. it is used to connect multiple device within a local area network and efficiently manage the communication between these device.        
+3. What is an Unmanaged Switch?
+Ans:unmanaged switch is a type of network switch that operates without the need for configuration or management by a network administrator. It is plug-and- play device designed for simple network setups and basic connectivity needs. 
+4. What is a Managed Switch?
+Ans: A managed switch is type of network switch that offers advanced configuration and management capabilities beyond those of unmanaged switches.managed switches provide network administrators with greater control and flexibility over their network infrastructure, allowing them to optimize performance, enhance security, and implement various network management features.
+5. What is a Bridge?
+Ans: Bridges work by examining the MAC addresses of incoming data frames and making and making decisions about whether to forward the frames to the other side of the bridge or to block them. This filtering process helps reduce network congestion and improve overall network performance.        
+6. What is a Patch Panel?
+Ans:  A patch panel is a physical device used in networking and telecommunications to manage the connections between various network components, such as computers,switchs, routers adn networking equipment.        
+7. What is a Firewall?
+Ans: firewall is a network security device or software that acts as a barrier between a trusted internal network and potentially untrustes external networks, such as the internet . Its primary function is to monitor and control incoming and outgoing network traffic based on predetermined security rules. 
+8. What is a Hub?
+Ans:  Hub is able to connect all of the devices on our network. sometimes you’ll hear a hub referred to as a multi-port repeater. That’s because hubs are not intelligent devices.        
+9. What is a Cable Modem?
+Ans: Cable modem is networking device that enable high-speed internet access over a cable television infrastructure.        
+10. What is a DSL Modem?
+Ans: DSL Moderm also known as digital subscriber line modem is a networking device that enable high-speed internet access over DSL connection. DSL is a technology that uses existing telephone lines to provide broadband internet connectivity to homes and businesses. 
+11. What is ONT?
+Ans: ONT stands for optical Network Terminal. it is a telecommunications device that is part od a fiber-optic network infrastructure. The ONT is typically installed at a customer’s premises and serves as the interface between the fiber-optic line coming from the service provider’s network and the customer’s internal network or devices.        
+12. What is Network Interface Card (NIC)?
+Ans: NIC also known as Network Adapter, It is a hardware component that allows computer,serverand other devices to connect to a computer network and communicate with other devices over that network. 
+13. What is a Wireless Access Point (WAP)?
+Ans: WAP is network device that enable wireless devices such as laptops,smartphones,tablets and other WI-FI enable devices to connect to a wires network and access resources and services over the wireless medium.
+14. What is a Wireless LAN Controller?
+Ans: Wireless LAN controller is a networking device used in enterprise environments to manage and control multple wireless Access point and the wireless network infrastructure. 
+15. What is a Repeater?
+Ans: Repeater is network device used to extend the coverage area of a wireless or wired network by amplifying or regenerating signals.
