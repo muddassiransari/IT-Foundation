@@ -1,0 +1,24 @@
+﻿12_PAS ON Software Defined Networking
+Self-Assessment Sheet
+
+
+1. What is Software Defined Networking (SDN)?
+Ans: Software-Defined Networking is an architectural approach to networking that aims to make network infrastructure more flexible, programmable and responsive to changing requirement and conditions. 
+2. What are Computer Networking Planes?
+Ans: Computer networking planes refer to the conceptual division within a computer network architecture that organize and handle different aspects of network functionality.
+3. What is Data Plane?
+Ans: The Data plane, also known as the forwarding or user plane, is a component in computer networking that deals with the actual forwarding of data packets within a network.        
+4. What is Control Plane?
+Ans: The control plane is critical component of computer networking that handles the high-level decision-making processes involved in managing and controlling the flow of data within a network.        
+5. What is Management Plane?
+Ans: The management plane is fundamental component of computer networking that is  responsible for the administration,configuration,monitoring and maintenance of network devices and resources.         
+6. What is Software Defined Networking Controller (SDN Controller)?
+Ans: A Software-Defined Networking controller is a central component is an SDN architecture that acts as a powerful orchestration and management platform for software-defined networks.  
+7. What is Distributed Control Planes?
+Ans: A Distributed Control Plane refers to network architecture where control plane functions are decentralized actress multiple network devices or nodes.         
+8. What is Controller-Based Networking?
+Ans: Controller-Based Networking refers to a networking architecture in which devices, such as switches and access points, are managed and controlled by a centralized software controller.        
+9. What is a Routed Port?
+Ans: A routed port is a network port on a networking device such as a router or a layer 3 switch hata is specifically configured to operate as a port belonging to a specific IP subnet or network segment. 
+10. What is OpenFlow?
+Ans: OpenFlow is communicatio protocol and framework that is designed to enable the programmability and dynamic control of network switches and routers.
