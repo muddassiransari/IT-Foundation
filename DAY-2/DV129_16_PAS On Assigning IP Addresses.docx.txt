@@ -1,0 +1,20 @@
+﻿DV129_16_PAS On Assigning IP Addresses
+Possible-Assessment Sheet
+1. How to assign IPv4 IP addresses for Private IP?
+Ans: Private IP addresses are used within a local network and are not routable on the public internet. They are reserved for internal use to help devices communicate within a network without conflicting with public IP addresses. 
+2. What is the process of DHCP (Dynamic Host Configuration Protocol)?
+Ans: The Dynamic Host Configuration Protocol process involves the automated assignment of IP addresses and related network configuration settings to devices on a network. 
+3. What is the result of DHCP (Dynamic Host Configuration Protocol)?
+Ans: The result of the Dynamic Host Configuration Protocol process is the successful assignment of IP addresses and related network configuration setting to devices on a network. The DHCP process ensure that devices can seamlessly connect to a network without the need for manual IP configuration, which simplifies network management and allows for efficient use IP addresses. 
+4. What Features of Static IP address?
+5. Features of Dynamic IP address?
+6. What is Automatic Private IP Address (APIPA)?
+Ans: Automatic Private IP Addressing is a feature used in windows operating systems to automatically an IP address to a device when a DHCP server is not available or cannot provide a valid IP configuration. 
+7. What is unicast address?
+Ans: A unicast address is a type of network address used in communication where data packets are sent from a single sender to a specific recipient. in unicast communication, a data packet is addressed to a unique destination, allowing for one-to-one communication between a sender and a single receiver.
+8. What is multicast addresses?
+Ans: A multicast address is a type of network address used in communication where data packets are sent from a single sender to multiple recipients who are part of a specific group. 
+9. What is anycast addresses?
+Ans: An anycast address is a network addressing scheme used in communication where data packets are sent from a sender to the nearest of multiple recipients providing the same service.  
+10. What is BootP?
+Ans: BOOTP is a legacy network protocol used to dynamically assign IP addresses and other network configuration parameters to network devices during their boot process.
