@@ -1,0 +1,42 @@
+﻿DV129_13_PAS On Wireless Network Standards
+Self-Assessment Sheet
+
+
+1. What is 802.11a speed?
+Ans: The 802.11a standard provides theoretical maximum data rates of up to 54 Mbps         
+2. What is 802.11a Frequency & range?
+Ans: The 802.11a standard operates in the 5 GHz frequency band, which provides several advantages over the more common 2.4 GHz frequency band by earlier WI-Fi standard like 802.11b and 802.11g. In optimal conditions, you might expect indoor ranges of around  100to 150 feet  but actual ranges can be shorter are obstacles or interference.        
+3. What are some other features of 802.11a?
+Ans: In addition to its use of the 5GHz frequency band and its maximum data rate of 54 MBps, the 802.11a standard (part of the IEEE 802.11 family of wireless networking standards) introduced several other feature and improvements compared to earlier standards.        
+4. What is 802.11b Speed?
+Ans: The 802.11b standard provides a maximum theoretical data rate of 11 Mbps. 
+5. What is 802.11b Frequency & range?
+Ans: The 802.11b standard operates in the 2.4 GHz frequency band. might expect indoor ranges of around 100 to 150 feet.         
+6. What are some other features of 802.11b?
+Ans: The 802.11b standard introduced wireless networking capabilities to a wide range of devices and played a significant role in popularizing WI-Fi technology. 
+7. What is 802.11g Speed?
+Ans: 802.11g networks often ranged from around 20 to 25 Mbps. 
+8. What is 802.11g Frequency & range?
+Ans: In optimal conditions, you might expect indoor ranges of around 100 to 150 feet.
+ 
+9. What are some other features of 802.11g?
+Ans: The reason that this was such a useful upgrade for folks running 802.11b was that we increased the speed on the g standard to 54 megabits per second, which is about the same as we found with 802.11a.         
+10. What is 802.11n Speed?
+Ans:  600 Mbps.        
+11. What is 802.11n Frequency & range?
+Ans: The 802.11n standard, often referred to as Wi-Fi operates in both the 2.4 GHz and 5 GHz frequency bands. In optimal conditions you might expect indoor ranges of around 100 to 150 feet.
+         
+12. What are some other features of 802.11n?
+Ans:  This 802.11n standard also introduced a new form of communication for wireless networks called MIMO or Multiple Input Multiple Output. This means the devices can transfer much more information simultaneously between the end station and the access point.        
+13. What is 802.11ac Speed?
+Ans: 1.2 gigabits per second.         
+14. What is 802.11ac Frequency & range?
+Ans: Operates primarily in the 5 GHz frequency band. 
+15. What is 802.11ax Speed?
+Ans: 9 .6 Gbps        
+16. What is 802.11ax Frequency & range?
+Ans: The 802.11ax standard, also known as Wi-Fi 6 operates in both the 2.4 GHz and 5 Ghz frequency bands.40 to 50 meters if you’re using the built in antennas
+17. What is RFID?
+Ans: RFID stands for Radio Frequency Identification that uses radio waves to automatically identify and track objects or items that are equipped with RFID tags.        
+18. How does RFID work?
+Ans: If you’re in manufacturing and you have an assembly line or you need to keep track of inventory, then you will extensively use RFID.
